@@ -8,7 +8,7 @@ The model is built using **Artificial Neural Networks (ANN)** with **TensorFlow 
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit Cloud link here after deployment)
+👉 https://bank-churn-ann-ynb8a6we2qtgvg7muudzbf.streamlit.app/
 
 ---
 
